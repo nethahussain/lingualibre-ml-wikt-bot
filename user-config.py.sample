@@ -1,0 +1,31 @@
+# -*- coding: utf-8 -*-
+"""
+Pywikibot configuration for LinguaLibre Malayalam Wiktionary Bot
+================================================================
+
+1. Copy this file: cp user-config.py.sample user-config.py
+2. Fill in your Wikimedia username below
+3. Create user-password.py from user-password.py.sample
+
+For bot accounts, request bot status at:
+https://ml.wiktionary.org/wiki/വിക്കിനിഘണ്ടു:യന്ത്രങ്ങൾ/അനുമതിക്കായുള്ള_അഭ്യർത്ഥനകൾ
+"""
+
+# BotPassword setup:
+#   Go to https://ml.wiktionary.org/wiki/Special:BotPasswords
+#   Create a bot password with these grants:
+#     - High-volume editing
+#     - Edit existing pages
+
+# Fill in your credentials:
+mylang = 'ml'
+family = 'wiktionary'
+usernames['wiktionary']['ml'] = 'YOUR_USERNAME_HERE'
+password_file = 'user-password.py'
+
+# Bot settings
+put_throttle = 10  # Minimum seconds between edits
+maxlag = 5         # Wait if server lag exceeds this (seconds)
+
+# Console encoding
+console_encoding = 'utf-8'
