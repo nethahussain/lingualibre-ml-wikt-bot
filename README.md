@@ -137,7 +137,7 @@ pytest test_bot_logic.py -v
 
 ## Attribution
 
-This bot was created in response to the [LinguaLibre Bot Request for Malayalam Wiktionary](https://lingualibre.org/wiki/LinguaLibre:Bot/Requests).
+This bot was created in response to the [LinguaLibre Bot Request for Malayalam Wiktionary](https://commons.wikimedia.org/wiki/Commons:Lingua_Libre/Bot#[ml:wikt]_Bot_request_for_Malayalam_Wiktionary#[ml:wikt]%20Bot%20request%20for%20Malayalam%20Wiktionary).
 
 - **Original bot request by**: [Akbarali](https://lingualibre.org/wiki/User:Akbarali) and [Vis M](https://lingualibre.org/wiki/User:Vis_M) (2023)
 - **Based on**: [LinguaLibre Bot](https://github.com/lingua-libre/Lingua-Libre-Bot) by Wikimedia France / LinguaLibre contributors (GPL-3.0)
