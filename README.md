@@ -146,3 +146,11 @@ This bot was created in response to the [LinguaLibre Bot Request for Malayalam W
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), to match the original LinguaLibre Bot project.
+
+---
+
+## Licence
+
+This project is released into the public domain under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
